@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="trial n error:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/trial_n_error_jar2</output-path>
+    <root id="archive" name="trial n error.jar">
+      <element id="module-output" name="trial n error" />
+    </root>
+  </artifact>
+</component>
